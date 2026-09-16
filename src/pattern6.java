@@ -9,7 +9,7 @@ public class pattern6 {
         {
             for(int j=n-i-1;j>=0;j--)
             {
-                System.out.print(n-j +  " ");
+                System.out.print(n-j-i+  " ");
             }
             System.out.println(" ");
         }
